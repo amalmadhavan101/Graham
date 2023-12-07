@@ -1,0 +1,6 @@
+Flask
+redis
+Werkzeug==2.0.2
+
+
+
